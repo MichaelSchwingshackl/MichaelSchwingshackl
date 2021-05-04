@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MichaelSchwingshackl
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning computer science [Bachelor]
